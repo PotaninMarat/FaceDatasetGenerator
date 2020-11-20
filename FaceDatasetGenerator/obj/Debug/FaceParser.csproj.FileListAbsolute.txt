@@ -1,0 +1,10 @@
+C:\Users\marat\source\repos\FaceParser\FaceParser\bin\Debug\FaceParser.exe.config
+C:\Users\marat\source\repos\FaceParser\FaceParser\bin\Debug\FaceParser.exe
+C:\Users\marat\source\repos\FaceParser\FaceParser\bin\Debug\FaceParser.pdb
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.csprojAssemblyReference.cache
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.Form1.resources
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.Properties.Resources.resources
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.csproj.GenerateResource.cache
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.csproj.CoreCompileInputs.cache
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.exe
+C:\Users\marat\source\repos\FaceParser\FaceParser\obj\Debug\FaceParser.pdb
